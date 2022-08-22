@@ -1,2 +1,0 @@
-# yinka-designs
-With the discovery of a rare UX/UI designer- in training - a connection to endless design ideas has been established. We actually need this repository to make the designs into web templates.
