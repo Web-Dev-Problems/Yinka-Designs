@@ -6,7 +6,6 @@ const App = () => {
     <Container>
       <Router>
         <Routes>
-          <Route exact path="/" element={ <div>Hey Yinka! It's tomiwa</div> } />
         </Routes>
       </Router>
     </Container>
