@@ -4,10 +4,6 @@
   font-family: 'Asap';
 }
 
-html, body{
-  overflow: hidden;
-}
-
 ul, ol{
   list-style-type: none;
   margin: 0;
