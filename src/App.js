@@ -9,6 +9,7 @@ const App = () => {
       <Router>
         <Routes>
           <Route exact path="/" element={ <Home/> } />
+          <Route exact path="/nftcollectionreference" element={ <ReferenceHolder imageURL="/nft-collection-1.png"/>} />
         </Routes>
       </Router>
     </Container>
