@@ -11,6 +11,7 @@ export const NftCollection = () => {
       <div>
         <Header />
         <Explore />
+        <InfoDesign />
       </div>
     </Container>
   )
