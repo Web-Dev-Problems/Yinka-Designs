@@ -7,8 +7,10 @@ export const NftCollection = () => {
   return (
     <Container>
       <Link to="/nftcollectionreference" id="aside" target="_blank" rel="noopener noreferrer">reference</Link>
-      <Header />
-      <Explore />
+      <div>
+        <Header />
+        <Explore />
+      </div>
     </Container>
   )
 }
