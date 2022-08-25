@@ -22,9 +22,13 @@ export const NftCollection = () => {
 const Container = styled.div`
   display: flex;
   flex-direction: column;
-  max-width: 1300px;
-  min-width: 400px;
-  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(204 204 204 / 23%);
+  > div{
+    max-width: 1300px;
+    min-width: 400px;
+  }
   #aside{
     position: fixed;
     bottom: 20px;
