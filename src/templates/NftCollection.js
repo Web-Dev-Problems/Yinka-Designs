@@ -2,6 +2,7 @@ import styled from "styled-components"
 import { Link } from "react-router-dom"
 import { Header } from "../NCComponents/Header"
 import { Explore } from "../NCComponents/Explore"
+import { InfoDesign } from "../NCComponents/InfoDesign"
 
 export const NftCollection = () => {
   return (
