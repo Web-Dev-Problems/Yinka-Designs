@@ -3,6 +3,7 @@ import { Link } from "react-router-dom"
 import { Header } from "../NCComponents/Header"
 import { Explore } from "../NCComponents/Explore"
 import { InfoDesign } from "../NCComponents/InfoDesign"
+import { DisplaySection } from "../NCComponents/DisplaySection"
 
 export const NftCollection = () => {
   return (
