@@ -50,7 +50,6 @@ export const Explore = () => {
 }
 
 const Container = styled.section`
-  height: 100vh;
   width: 100%;
   display: grid;
   grid-template-columns: 1fr 1fr;
