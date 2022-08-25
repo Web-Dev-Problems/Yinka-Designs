@@ -13,6 +13,7 @@ export const NftCollection = () => {
         <Header />
         <Explore />
         <InfoDesign />
+        <DisplaySection />
       </div>
     </Container>
   )
